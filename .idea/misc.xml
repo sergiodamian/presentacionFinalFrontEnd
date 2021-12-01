@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/activity_abm_productos.xml" value="0.25" />
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/activity_editar_producto.xml" value="0.19739583333333333" />
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/activity_list_product.xml" value="0.19739583333333333" />
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/activity_nuevo_producto.xml" value="0.5" />
+        <entry key="..\:/Fabio/Proyectos/PERSONALES/segundoFinalFrontEnd/app/src/main/res/layout/item_producto.xml" value="0.33" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/drawable/ic_edit.xml" value="0.2890625" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_abm_clientes.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_abm_productos.xml" value="0.22" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_editar_cliente.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_editar_producto.xml" value="0.22" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_list_product.xml" value="0.19080779944289694" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_nuevo_cliente.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_nuevo_producto.xml" value="0.22" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_reporte_detallado.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/activity_reporte_resumido.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/item_cliente.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/item_producto.xml" value="0.1" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/item_reporte_detallado.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Desarrollo/AndroidStudioProjects/SegundoFinal/app/src/main/res/layout/item_reporte_resumido.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

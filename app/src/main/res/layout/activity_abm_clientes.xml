@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_clien_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".ABMClientesActivity">
+
+    <TextView
+        android:id="@+id/txtCantidadClientes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TOTAL DE CLIENTES: 0"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnNuevoCliente"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NUEVO CLIENTE" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvClientes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_cliente"
+        tools:itemCount="20"
+        android:layout_marginTop="10dp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

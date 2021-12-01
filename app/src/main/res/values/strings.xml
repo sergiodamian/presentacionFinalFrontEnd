@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Segundo Final</string>
+    <string name="todo">TODO</string>
+    <string name="administracion_de_clientes">Administracion de clientes</string>
+    <string name="administracion_de_productos">Administracion de Productos</string>
+    <string name="registro_de_ventas_de_productos">Registro de ventas de productos</string>
+    <string name="reporte_de_ventas_resumido">Reporte de ventas resumido</string>
+    <string name="reporte_de_ventas_detallado">Reporte de ventas detallado</string>
+</resources>

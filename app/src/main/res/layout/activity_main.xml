@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_productos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/administracion_de_productos" />
+
+    <Button
+        android:id="@+id/button_clientes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/administracion_de_clientes" />
+
+    <Button
+        android:id="@+id/button_ventas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/registro_de_ventas_de_productos" />
+
+    <Button
+        android:id="@+id/button_reporte_ventas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reporte_de_ventas_resumido" />
+
+    <Button
+        android:id="@+id/button_ventas_detallado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reporte_de_ventas_detallado" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
